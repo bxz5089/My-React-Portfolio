@@ -26,7 +26,7 @@ function HomePage() {
                 </div>
                 <div className="content">
                     <div className="contentBox" id="about-me">
-                        <a href="aboutMe.html"></a><img src="images/my-picture.jpg"/></a>
+                        <a href="aboutMe.html"></a><img src="images/my-picture.jpg"/>
                         <h2>About Me</h2>
                         <p>
                             I am currently working as a part time developer in a startup healthcare tech company, learning to code as I go. I am hoping to learn more about coding as I complete this online bootcamp and beyond. 
@@ -56,6 +56,7 @@ function HomePage() {
                     <p>Email: bxz5089@gmail.com</p>
                 </footer> 
             </div> 
+        </div>
         </div>
 
     );
