@@ -1,33 +1,33 @@
 import './App.css';
-// import { HashRouter as Router, Route, Switch } from "react-router-dom";
-// import Container from "react-bootstrap/Container";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Container from "react-bootstrap/Container";
+
 import Header from './components/Header';
+import Footer from './components/Footer';
+
 import HomePage from './components/HomePage';
 import AboutMePage from './components/AboutMePage';
-import Footer from './components/Footer';
+import ProjectsPage from './components/ProjectsPage';
+import ResumePage from './components/ResumePage';
+
 
 
 function App() {
   return (
-    <div className="portfolio-app">
-      <Header />
-      <HomePage />
-      <AboutMePage />
-      <Footer />
-    </div>
-
-    // <Container fluid className="portfolio-app">
-    //   <Router basename='/'>
-    //     <Header />
-    //     <Switch>
-    //       <Route exact path="/" component={HomePage} />
-    //       <Route exact path="/aboutme" component={AboutMePage} />
-    //       <Route exact path="/contact" component={Contact} />
-    //     </Switch>
-    //     <Footer />
-    //   </Router>
-    // </Container>
+    <Container fluid className="portfolio-app">
+      <Router basename='/'>
+        <Header />
+        <Routes>
+          <Route exact path="/" element={<HomePage/>} />
+          <Route exact path="/aboutmepage" element={<AboutMePage/>} />
+          <Route exact path="/projects" element={<ProjectsPage/>} />
+          <Route exact path="/resume" element={<ResumePage/>} />
+        </Routes>
+        <Footer />
+      </Router>
+    </Container>
   );
 }
 
-export default App;
+export default App; 
+
