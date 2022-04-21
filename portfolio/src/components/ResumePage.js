@@ -11,11 +11,11 @@ function ResumePage() {
             
                 <div className="contentBox" id="resumepage">
                     
-                    <a href="myResume.html"><h2>Resume</h2></a>
+                    <h2>Resume</h2>
                     <p>
                         Here is my current resume. Thank you. 
                     </p>
-                    <a href="https://docs.google.com/document/d/1UyUp_8nYj6dL--icBLpuA46jIWLPIT5YVSXoxaUvlW0/edit?usp=sharing"><button className="portfolioBtn downloadBtn">Download</button></a> 
+                    <a href="https://docs.google.com/document/d/1UyUp_8nYj6dL--icBLpuA46jIWLPIT5YVSXoxaUvlW0/export?format=pdf" target="_blank" rel="noopener noreferrer"><button className="portfolioBtn downloadBtn">Download</button></a> 
 
                     <div className="resumeImg">
                          <img src={ResumeImg1} width="530" height="690"/>
