@@ -5,21 +5,7 @@ function HomePage() {
         <div className="container">
         <div className="row">
             <div className="col-xs-12 col-sm-12 col-md-12 justify-content-center">
-                <nav className="navbar navbar-expand-lg navbar-dark bg-dark navBarStyle contentBox">
-                    <a className="navbar-brand" href="index.html">Bowen <span className="lastname">Zheng</span></a>
-                    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                        <span className="navbar-toggler-icon"></span>
-                    </button>
-                    <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-                        <ul className="navbar-nav" id="portfolioNav">
-                        <li className="nav-item" ><a className="nav-link myTab active" href="index.html">Home</a></li> 
-                        <li className="nav-item" ><a className="nav-link myTab" href="aboutMe.html">About Me</a></li>
-                        <li className="nav-item" ><a className="nav-link myTab" href="myProjects.html">My Projects</a></li>
-                        <li className="nav-item" ><a className="nav-link myTab" href="myResume.html">My Resume</a></li>
-                        </ul>
-                    </div>
-                </nav>
-
+                
                 <div className="main-picture contentBox">
                     <img src="images/jon-asleeb-widepicture.jpg"/>
                     <h1>Hello, welcome to my portfolio.</h1>
@@ -50,11 +36,7 @@ function HomePage() {
                         <a href="myResume.html"><button className="portfolioBtn">Resume</button></a>
                     </div>
                 </div>
-                <footer className="footer contentBox">
-                    <h2>Made by Bowen Z.</h2>
-                    <h3>Contact Info</h3>
-                    <p>Email: bxz5089@gmail.com</p>
-                </footer> 
+   
             </div> 
         </div>
         </div>
