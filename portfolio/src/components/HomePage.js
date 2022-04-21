@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import HomePagePic from '../assets/images/jon-asleeb-widepicture.jpg'
+import MyProfilePic from '../assets/images/my-picture.jpg'
 
 function HomePage() {
     return (
@@ -7,12 +9,12 @@ function HomePage() {
             <div className="col-xs-12 col-sm-12 col-md-12 justify-content-center">
                 
                 <div className="main-picture contentBox">
-                    <img src="images/jon-asleeb-widepicture.jpg"/>
+                    <img src={HomePagePic}/>
                     <h1>Hello, welcome to my portfolio.</h1>
                 </div>
                 <div className="content">
                     <div className="contentBox" id="about-me">
-                        <a href="aboutMe.html"></a><img src="images/my-picture.jpg"/>
+                        <a href="aboutMe.html"></a><img src={MyProfilePic}/>
                         <h2>About Me</h2>
                         <p>
                             I am currently working as a part time developer in a startup healthcare tech company, learning to code as I go. I am hoping to learn more about coding as I complete this online bootcamp and beyond. 
