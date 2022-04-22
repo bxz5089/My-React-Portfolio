@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.6bb6fe15.css",
-    "main.js": "/My-React-Portfolio/static/js/main.42ad7f8a.js",
+    "main.css": "/My-React-Portfolio/static/css/main.80a8ea31.css",
+    "main.js": "/My-React-Portfolio/static/js/main.dfd717de.js",
     "static/js/787.1ed0c42c.chunk.js": "/My-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/heidi-kaden-philadelphia.jpg": "/My-React-Portfolio/static/media/heidi-kaden-philadelphia.6812cd3c8116a395d86b.jpg",
     "static/media/my-picture.jpg": "/My-React-Portfolio/static/media/my-picture.17ea770e612fa0723c5c.jpg",
@@ -12,12 +12,12 @@
     "static/media/my-resume1.png": "/My-React-Portfolio/static/media/my-resume1.fbd4d0af01657aab217c.png",
     "static/media/my-resume2.png": "/My-React-Portfolio/static/media/my-resume2.8593901b43580cd7166a.png",
     "index.html": "/My-React-Portfolio/index.html",
-    "main.6bb6fe15.css.map": "/My-React-Portfolio/static/css/main.6bb6fe15.css.map",
-    "main.42ad7f8a.js.map": "/My-React-Portfolio/static/js/main.42ad7f8a.js.map",
+    "main.80a8ea31.css.map": "/My-React-Portfolio/static/css/main.80a8ea31.css.map",
+    "main.dfd717de.js.map": "/My-React-Portfolio/static/js/main.dfd717de.js.map",
     "787.1ed0c42c.chunk.js.map": "/My-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bb6fe15.css",
-    "static/js/main.42ad7f8a.js"
+    "static/css/main.80a8ea31.css",
+    "static/js/main.dfd717de.js"
   ]
 }
