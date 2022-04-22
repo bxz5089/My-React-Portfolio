@@ -20,8 +20,8 @@ function App() {
         <Routes>
           <Route exact path="/" element={<HomePage/>} />
           <Route exact path="/aboutmepage" element={<AboutMePage/>} />
-          <Route exact path="/projects" element={<ProjectsPage/>} />
-          <Route exact path="/resume" element={<ResumePage/>} />
+          <Route exact path="/projectspage" element={<ProjectsPage/>} />
+          <Route exact path="/resumepage" element={<ResumePage/>} />
         </Routes>
         <Footer />
       </Router>

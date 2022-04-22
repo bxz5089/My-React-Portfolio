@@ -5,8 +5,7 @@ import ResumeImg2 from '../assets/images/my-resume2.png';
 
 function ResumePage() {
     return (
-        <div className="container">
-        <div className="row">
+
             <div className="col-xs-12 col-sm-12 col-md-12 justify-content-center">
             
                 <div className="contentBox" id="resumepage">
@@ -25,8 +24,7 @@ function ResumePage() {
                 </div>
             
             </div> 
-        </div>
-    </div>
+            
     );
 }
 

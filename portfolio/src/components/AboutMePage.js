@@ -5,8 +5,7 @@ import GitHubImg from '../assets/images/myGithub.png';
 
 function AboutMePage() {
     return (
-        <div className="container">
-        <div className="row">
+
             <div className="col-xs-12 col-sm-12 col-md-12 justify-content-center">                
            
                 <div className="aboutMeCard contentBox">
@@ -29,8 +28,7 @@ function AboutMePage() {
                 </div>
 
             </div>
-        </div>
-    </div>
+
     )
 }
 
