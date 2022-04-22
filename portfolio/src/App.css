@@ -33,7 +33,7 @@ img {
 
 .nav-link p {
   padding-left: 25px;
-  
+
 }
 
 .navBarStyle {
@@ -42,14 +42,14 @@ img {
 
 .navBarStyle a {
   font-family: "Rubik", sans-serif;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .lastname {
   color: red;
   padding: 0;
   margin: 0;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .main-picture {
@@ -68,10 +68,10 @@ img {
 
 .main-picture h1 {
   position: absolute;
-  bottom: 130px;
+  bottom: 100px;
   left: 100px;
   color: #ffffff;
-  font-size: 3.5vw;
+  font-size: 280%;
 }
 
 /* Style for the portfolio content page */
@@ -235,7 +235,7 @@ img {
 .projectBtn {
   position: relative;
   left: 30px;
-  margin: 20px 0px;
+  margin: 20px 10px 20px 0px;
 }
 
 /* style for about me page */
@@ -252,8 +252,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 10px;
-  border-radius: 10px;
 }
 
 .aboutMeContent {
@@ -273,7 +271,7 @@ img {
 
 /* Style for all footers */
 .footer {
-  padding: 30px;
+  padding: 20px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;

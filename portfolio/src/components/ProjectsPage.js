@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 
 function ProjectsPage() {
     return (
+
+        <div class="container">
      
             <div className="col-xs-12 col-sm-12 col-md-12 justify-content-center">
             
@@ -9,21 +11,17 @@ function ProjectsPage() {
                 
                     <h2>Project: Coundown-Games</h2>
                     <a href="https://github.com/bxz5089/Countdown-Games" target="_blank" rel="noopener noreferrer"><button className="portfolioBtn projectBtn">GitHub</button></a>
-                    <a href="https://bxz5089.github.io/Project-1-Coundown-Games/" target="_blank" rel="noopener noreferrer"><button className="portfolioBtn projectBtn">Deployed</button></a>
-                
+                    <a href="https://bxz5089.github.io/Project-1-Coundown-Games/" target="_blank" rel="noopener noreferrer"><button className="portfolioBtn projectBtn">Deployed</button></a>                
                     
-
                     <p>Timer (Countdown) based game application project featuring Trivia and Hangman.</p>
                     
-                
                     <img src="https://github.com/bxz5089/Project-1-Coundown-Games/raw/main/assets/img/HomePage.png" width="500" height="500"/>
                     <img src="https://github.com/bxz5089/Project-1-Coundown-Games/raw/main/assets/img/TriviaChallenge.png" width="500" height="500"/>
                     <img src="https://github.com/bxz5089/Project-1-Coundown-Games/raw/main/assets/img/Hangman.png" width="500" height="500"/>
                     <img src="https://github.com/bxz5089/Project-1-Coundown-Games/raw/main/assets/img/Scoreboard.png" width="500" height="500"/>
                     
-                    
-
                 </div>
+
                 <div className="contentBox" id="coding-projects-page">
                     
                     <h2>Project Cumulus Chat</h2>
@@ -38,12 +36,11 @@ function ProjectsPage() {
                         </p>
                 
                     <img src="https://github.com/bxz5089/Cumulus-Chat/raw/main/public/assets/ScreenShot1.png" width="500" height="500"/>
-                    <img src="https://github.com/bxz5089/Cumulus-Chat/raw/main/public/assets/ScreenShot2.png" width="500" height="500"/>
+                    {/* <img src="https://github.com/bxz5089/Cumulus-Chat/raw/main/public/assets/ScreenShot2.png" width="500" height="500"/> */}
                     <img src="https://user-images.githubusercontent.com/94097708/159130156-30e289ac-5a7b-4fe8-9f2b-2b0e67efa055.png" width="500" height="500"/>
                     
-                    
-
                 </div>
+
                 <div className="contentBox" id="coding-projects-page">
                     
                     <h2>Code Quiz</h2>
@@ -57,10 +54,11 @@ function ProjectsPage() {
                     <img src="https://github.com/bxz5089/Bootcamp_homework4_Code_Quiz/raw/main/assets/screenshot3.png" width="500" height="500"/>
                     <img src="https://github.com/bxz5089/Bootcamp_homework4_Code_Quiz/raw/main/assets/screenshot4.png" width="500" height="500"/>
                     
-
                 </div>
 
             </div>
+        
+        </div>
  
     );
 }
