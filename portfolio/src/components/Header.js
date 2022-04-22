@@ -8,7 +8,7 @@ function Header () {
 
             <div className="col-xs-12 col-sm-12 col-md-12 justify-content-center">
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark navBarStyle contentBox">
-                    <Link to="/" className="nav-brand-link"><p className="navbar-brand">Bowen <span className="lastname">Zheng</span></p></Link>
+                    <Link to="/" className="nav-brand-link"><p className="navbar-brand"><span className="firstname">Bowen</span> <span className="lastname">Zheng</span></p></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
