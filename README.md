@@ -46,7 +46,7 @@ This can be used as an simple React portfolio website template.
 
 ### Deploy:
 
-- https://fast-mountain-78332.herokuapp.com/
+- https://bxz5089.github.io/My-React-Portfolio/
 
 ---
 
