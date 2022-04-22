@@ -123,14 +123,14 @@ img {
 #coding-projects h2,
 #resume h2 {
   margin-bottom: 20px;
-  font-size: 2.5vw;
+  font-size: 200%;
 }
 
 #about-me p,
 #coding-projects p,
 #resume p {
   margin-bottom: 20px;
-  font-size: 1.3vw;
+  font-size: 120%;
 }
 
 #about-me button,
@@ -140,11 +140,12 @@ img {
 }
 
 .portfolioBtn {
+  position: relative;
   background-color: #53ceff;
   border-radius: 10px;
   border-style: solid;
   border-color: #379edf;
-  font-size: 1.5vw;
+  font-size: 100%;
   color: #ffffff;
   padding: 0px 10px;
   width: 200px;
@@ -174,13 +175,13 @@ img {
 
 #resumepage h2 {
   margin-left: 30px;
-  font-size: 2.5vw;
+  font-size: 200%;
 }
 
 #resumepage p {
   margin-left: 30px;
   margin-bottom: 20px;
-  font-size: 1.3vw;
+  font-size: 120%;
 }
 
 .downloadBtn {
@@ -215,14 +216,14 @@ img {
 
 #coding-projects-page h2 {
   margin-left: 30px;
-  font-size: 2.5vw;
+  font-size: 200%;
   font-weight: 600;
 }
 
 #coding-projects-page p {
   margin-left: 30px;
   margin-bottom: 20px;
-  font-size: 1.3vw;
+  font-size: 120%;
 }
 
 .projectBtn {
@@ -257,7 +258,7 @@ img {
 }
 
 .aboutMeContent h5 {
-  font-size: 2.5vw;
+  font-size: 200%;
   font-weight: 600;
 }
 
@@ -278,6 +279,6 @@ img {
 .footer h2,
 .footer h3,
 .footer p {
-  font-size: 1.3vw;
+  font-size: 120%;
   color: #ffffff;
 }

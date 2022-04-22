@@ -42,8 +42,6 @@ Can be used as an simple React portfolio template.
 ### Screenshot:
 
 ![Screenshot](portfolio/src/assets/images/ScreenShot1.png)
-![Screenshot](assets/ScreenShot2.png)
-![Screenshot](assets/ScreenShot3.png)
 
 ### Deploy:
 
