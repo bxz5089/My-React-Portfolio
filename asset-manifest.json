@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/My-React-Portfolio/static/css/main.731868ad.css",
+    "main.js": "/My-React-Portfolio/static/js/main.76dd69a0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My-React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/background-12.jpg": "/My-React-Portfolio/static/media/background-12.cb6911c5bb56c2b690a6.jpg",
+    "static/media/heidi-kaden-philadelphia.jpg": "/My-React-Portfolio/static/media/heidi-kaden-philadelphia.6812cd3c8116a395d86b.jpg",
+    "static/media/my-picture.jpg": "/My-React-Portfolio/static/media/my-picture.17ea770e612fa0723c5c.jpg",
+    "static/media/ilya-pavlov-coding.jpg": "/My-React-Portfolio/static/media/ilya-pavlov-coding.1e6660160d74059a9764.jpg",
+    "static/media/myLinkedIn.png": "/My-React-Portfolio/static/media/myLinkedIn.af11e201af62a348008c.png",
+    "static/media/jon-asleeb-widepicture.jpg": "/My-React-Portfolio/static/media/jon-asleeb-widepicture.cce095e60dd1365ad55a.jpg",
+    "static/media/myGithub.png": "/My-React-Portfolio/static/media/myGithub.ad946b9a79275cbe990b.png",
+    "static/media/my-resume1.png": "/My-React-Portfolio/static/media/my-resume1.31403b2f4b1aa9afec6c.png",
+    "static/media/my-resume2.png": "/My-React-Portfolio/static/media/my-resume2.91fc354e61c87b02625e.png",
+    "index.html": "/My-React-Portfolio/index.html",
+    "main.731868ad.css.map": "/My-React-Portfolio/static/css/main.731868ad.css.map",
+    "main.76dd69a0.js.map": "/My-React-Portfolio/static/js/main.76dd69a0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My-React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731868ad.css",
+    "static/js/main.76dd69a0.js"
+  ]
+}
