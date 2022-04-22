@@ -6,7 +6,7 @@
 
 ## Description
 
-This is my portfolio created using React.
+This is my portfolio website created using HTML, CSS, JavaScript, Bootstrap and React.
 
 This application is deployed to GitHub Pages.
 
@@ -37,11 +37,12 @@ This application is deployed to GitHub Pages.
 
 ## Usage
 
-Can be used as an simple React portfolio template. 
+This can be used as an simple React portfolio website template. 
 
 ### Screenshot:
 
 ![Screenshot](portfolio/src/assets/images/ScreenShot1.png)
+![Screenshot](portfolio/src/assets/images/ScreenShot2.png)
 
 ### Deploy:
 
