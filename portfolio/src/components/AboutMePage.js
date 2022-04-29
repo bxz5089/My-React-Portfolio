@@ -35,6 +35,5 @@ function AboutMePage() {
 
     )
 }
-bounceBubbles();
 
 export default AboutMePage;
