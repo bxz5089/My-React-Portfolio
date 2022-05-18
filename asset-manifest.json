@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.67ec48a2.css",
-    "main.js": "/MyPortfolio/static/js/main.55d98b84.js",
+    "main.js": "/MyPortfolio/static/js/main.9acccb23.js",
     "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/background-12.jpg": "/MyPortfolio/static/media/background-12.cb6911c5bb56c2b690a6.jpg",
     "static/media/heidi-kaden-philadelphia.jpg": "/MyPortfolio/static/media/heidi-kaden-philadelphia.6812cd3c8116a395d86b.jpg",
@@ -14,11 +14,11 @@
     "static/media/my-resume2.png": "/MyPortfolio/static/media/my-resume2.91fc354e61c87b02625e.png",
     "index.html": "/MyPortfolio/index.html",
     "main.67ec48a2.css.map": "/MyPortfolio/static/css/main.67ec48a2.css.map",
-    "main.55d98b84.js.map": "/MyPortfolio/static/js/main.55d98b84.js.map",
+    "main.9acccb23.js.map": "/MyPortfolio/static/js/main.9acccb23.js.map",
     "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67ec48a2.css",
-    "static/js/main.55d98b84.js"
+    "static/js/main.9acccb23.js"
   ]
 }
