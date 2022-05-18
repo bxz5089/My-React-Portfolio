@@ -15,7 +15,7 @@ import ResumePage from './components/ResumePage';
 function App() {
   return (
     <Container fluid className="portfolio-app">
-      <Router basename='/My-React-Portfolio'>
+      <Router basename='/MyPortfolio'>
         <Header />
         <Routes>
           <Route exact path="/" element={<HomePage/>} />
