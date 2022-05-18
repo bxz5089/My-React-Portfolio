@@ -22,7 +22,7 @@ function HomePage() {
                         <img src={MyProfileImg}/>
                         <h2>About Me</h2>
                         <p>
-                        Junior front-end web developer skilled in HTML, CSS, and JavaScript and excels in code organization, teamwork, and web designs. Worked with senior developers on cross-platform healthcare applications using Ionic Framework, HTML, CSS, and AngularJS, with responsive design in mind. Gained years of experience working in the healthcare field, and understand the importance of clear communication and HIPPA security rules, which can be applied to application development. Strengthened full-stack coding experience and skill at Penn LPS Coding Bootcamp.
+                        Junior front-end web developer skilled in HTML, CSS, and JavaScript and excels in code organization, teamwork, and web designs. Worked with senior developers on cross-platform healthcare applications using Ionic Framework, HTML, CSS, and AngularJS, with responsive design in mind. Gained years of experience working in the healthcare field, and understand the importance of clear communication and HIPPA security rules, which can be applied to application development. Strengthened full-stack coding experience and skills at Penn LPS Coding Bootcamp by learning about ReactJS, NodeJS, ExpressJS, MySQL, MongoDB, and GraphQL with Apollo. 
                         </p>
                         <Link to="/aboutmepage" className="nav-link"><button className="portfolioBtn">About Me</button></Link>
                     </div>
