@@ -16,14 +16,21 @@ a {
 
 img {
   border-style: solid;
-  border-color: #ffffff;
-  border-width: 2px;
 }
 
 .contentBox {
   border-style: solid;
   border-color: #394457;
   border-width: 5px;
+}
+
+.youtubeVideo {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .nav-brand-link {

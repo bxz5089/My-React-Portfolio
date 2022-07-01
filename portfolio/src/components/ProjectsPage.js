@@ -89,6 +89,28 @@ function ProjectsPage() {
                     
                 </div>
 
+                <div className="contentBox" id="coding-projects-page">
+                    
+                    <h2>PacMen Exercise</h2>
+                    <a href="https://github.com/bxz5089/PacMan-Exercise" target="_blank" rel="noopener noreferrer"><button className="portfolioBtn projectBtn">GitHub</button></a>
+
+                    <div><iframe className="youtubeVideo" width="700" height="400" src="https://www.youtube.com/embed/MlgbNgmO6L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+                    <p>PacMan is moved from one side of the screen to the other using HTML and JavaScript code; setTimeout and setInterval etc.</p>
+                
+                </div>
+
+                <div className="contentBox" id="coding-projects-page">
+                    
+                    <h2>Eye Exercise</h2>
+                    <a href="https://github.com/bxz5089/Eye-Movement" target="_blank" rel="noopener noreferrer"><button className="portfolioBtn projectBtn">GitHub</button></a>
+
+                    <div><iframe className="youtubeVideo" width="700" height="400" src="https://www.youtube.com/embed/j6vPZENS1II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+                    <p>A mouse movement exercise created by using HTML and CSS powered by JavaScript code. The eyes will follow the movement of the user's mouse because of the onmousemove Event.</p>
+                    
+                </div>
+
             </div>
         
         </div>
